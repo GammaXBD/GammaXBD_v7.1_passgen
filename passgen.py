@@ -1,0 +1,4 @@
+import passgen
+
+
+passgen.main()
